@@ -1,0 +1,7 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'Jorn#0008'
+version '1.0.0'
+lua54 'yes'
+client_script 'client.lua'
+use_experimental_fxv2_oal 'yes'
